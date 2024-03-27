@@ -5,8 +5,13 @@
 layout: home
 ---
 
-This website presents information regarding the **1st Greek Shogi ISF Qualifiers** which is organized by and will take place at [**Hikarikwai**](https://www.facebook.com/clubhikarikwai){:target="_blank"} on **June 8th 2024**.
+Ενημερωτική σελίδα σχετικά με το 1ο Πανελλήνιο Τουρνουά Σόγκι που θα πραγματοποιηθεί από το Ελληνο-Ιαπωνικό πολιτιστικό κέντρο [**Hikarikwai**](https://www.facebook.com/clubhikarikwai){:target="_blank"} στις **8 Ιουνίου 2024**.
 
-ISF --International Shogi Forum-- is the biggest Shogi event with non-japanese participations.
-It takes place **every 3 years**, usually **in Japan**.
-The upcoming ISF is on **November 7th 2024**.
+Το τουρνουά αυτό αποτελεί τα προκριματικά για τη συμμετοχή της Ελλάδας στο Παγκόσμιο Φεστιβάλ Σόγκι (International Shogi Forum).
+
+---
+
+### International Shogi Forum (ISF)
+Πρόκειται για τη μεγαλύτερη εκδήλωση Σόγκι του κόσμου με συμμετοχές από εκτός Ιαπωνίας.
+- Πραγματοποιείται κάθε 3 χρόνια στην Ιαπωνία
+- Φέτος θα πραγματοποιηθεί στις 7 Νοεμβρίου 2024
