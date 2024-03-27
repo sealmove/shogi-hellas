@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Πρόγραμμα
 permalink: /schedule/
 ---
 
@@ -10,13 +10,13 @@ table th:first-of-type {
 }
 </style>
 
-### Saturday, 8th of June
+### Σάββατο 8 Ιουνίου
 
-Time  | Event
+Ώρα   | 
 :---- | :---------------
-10:00 | Opening ceremony
-11:00 | Round 1
-12:30 | Round 2
-14:30 | Round 3
-16:00 | Round 4
-17:30 | Closing ceremony
+10:00 | Τελετή έναρξης
+11:00 | 1ος Γύρος
+12:30 | 2ος Γύρος
+14:30 | 3ος Γύρος
+16:00 | 4ος Γύρος
+17:30 | Τελετή απονομής

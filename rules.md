@@ -1,9 +1,18 @@
 ---
 layout: page
-title: Rules
+title: Κανόνες
 permalink: /rules/
 ---
 
-Time control: 30 min + 30 sec [byo-yomi](https://en.wikipedia.org/wiki/Time_control#Byo-yomi){:target="_blank"}   
-System: Swiss, 4 rounds  
-Entry fee: 10€ onsite in cash
+<style>
+table th:nth-of-type(1) {
+    width: 44%;
+}
+table th:nth-of-type(2) {
+    width: 28%;
+}
+</style>
+
+Ρολόι    | Σύστημα | Τιμή
+:---- | :---------------
+30 λεπτά + 30 δευτερόλεπτα [byo-yomi](https://en.wikipedia.org/wiki/Time_control#Byo-yomi){:target="_blank"} | Swiss, 4 γύροι | 10€

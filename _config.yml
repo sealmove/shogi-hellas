@@ -3,12 +3,9 @@ title: Shogi Hellas
 feed:
   path: mypath
 author:
-  name: Stefanos Mandalas
-  email: >-
-    stefanosmandalas@gmail.com
-    hikarikwaiclub@outlook.com
+  name: Hikarikwai
 description: >-
-  Information about the 1st Greek Shogi ISF Qualifiers
+  Πληροφορίες σχετικά με το 1ο Πανελλήνιο Τουρνουά Σόγκι
 baseurl: "/shogi-hellas"
 
 theme: minima
