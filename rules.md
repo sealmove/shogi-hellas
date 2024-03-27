@@ -13,6 +13,6 @@ table th:nth-of-type(2) {
 }
 </style>
 
-Ρολόι    | Σύστημα | Τιμή
-:---- | :---------------
+Ρολόι | Σύστημα | Τιμή
+:---- | :------ | :---
 30 λεπτά + 30 δευτερόλεπτα [byo-yomi](https://en.wikipedia.org/wiki/Time_control#Byo-yomi){:target="_blank"} | Swiss, 4 γύροι | 10€
